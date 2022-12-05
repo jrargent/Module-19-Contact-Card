@@ -29,5 +29,8 @@
   "homepage": "https://github.com/jrargent/Module-19-Contact-Card#readme",
   "dependencies": {
     "concurrently": "^7.6.0"
+  },
+  "devDependencies": {
+    "workbox-webpack-plugin": "^6.5.4"
   }
 }
